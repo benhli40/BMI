@@ -1,0 +1,10 @@
+C:\Users\benhl\source\repos\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\benhl\source\repos\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\benhl\source\repos\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\benhl\source\repos\BMI\BMI\obj\Debug\BMI.pdb
