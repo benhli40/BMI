@@ -12,3 +12,14 @@ On Edit be able to cut, copy, or even paste what they need. View I know only has
 Under Tools I'd want to be able to change the Settings on this, be able to move it (it's static at the moment, so wherever it lands on your screen, that's where it resides, unfortunately. Ah, I also need to fix the About "Your BMY Health Journal," I know I'm the primary developer/programmer on this, and I wouldn't mind giving credit to those who help me out as well.
 
 The reason I am trying to build this as fast as possible, I want to raise funds so I can move to be with my fiance. It's a whole new chapter for the both of us. I'd like to be able to have a tech startup. So, that's this appp as far as I can take it -- for now.
+
+EDIT -
+
+I was able to add more functionality: All the radiobuttons do work in my SettingsForm, just not the btnSaveTheme_Click. I'll try and figure that out. 
+Other things that work as well - opening a file (if the program can find it), saving a file, printing that file, and of course the exit. Even the upper 
+right corner where we typically see the close button, that works too. Edit and those commands, cut, copy, paste and delete do not work at the moment. 
+Again, I'll get that fixed as soon as possible. Two other things do not work as well - Open file and Save As. I'll figure it out guys!
+
+If anyone more advanced and knwledgeable in building C# windows apps knows how to fix what I couldn't do on my own - feel free to make the needed changes.
+I will give credit where credit is due. And yes, I'd like to be able to get this app to kickstarter to raise much needed funds! I think this might be a 
+good app to get into the hands of those like myself, desiring to lose weight and lead healthier lives!
