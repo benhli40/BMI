@@ -1,7 +1,21 @@
 # BMI
+
 Windows form BMI Calculator I call Your BMI Health Journal
 
+Originally, I started this application for Windows PCs on the 15th of February and I've not had huge amounts of sleep as I want to build this up and out as quick and fast as possible.
+I know it's stretching me and all, but I'm tired of spinning my wheels feeling I'm doing nothing with the programming I want to do. So here we go - 
+
 While I provided the images of what I made so far here, I want to add more functionality to this project overall so that it feels like a very immersive and fully functional app.
+
+<img src="https://github.com/benhli40/BMI/blob/main/yourbmihealthjournal-1.png" >
+
+<img src="https://github.com/benhli40/BMI/blob/main/yourbmihealthjournal-2.png" >
+
+<img src="https://github.com/benhli40/BMI/blob/main/yourbmihealthjournal-3.png" >
+
+<img src="https://github.com/benhli40/BMI/blob/main/yourbmihealthjournal-4.png" >
+
+<img src="https://github.com/benhli40/BMI/blob/main/yourbmihealthjournal-5.png" >
 
 The things I want to add to it are the ability to open a file, even a Create File or rather "New". the reason is there's space left over I want to use to display past results: user's name, their weight, their height. I already accounted for Metric and US. I have no idea why the Metric side wants to say higher on the BMI when using kg and m, but it works fine for US. 
 
@@ -12,6 +26,8 @@ On Edit be able to cut, copy, or even paste what they need. View I know only has
 Under Tools, I'd want to be able to change the Settings on this, and be able to move it (it's static at the moment, so wherever it lands on your screen, that's where it resides, unfortunately. Ah, I also need to fix the About "Your BMY Health Journal," I know I'm the primary developer/programmer on this, and I wouldn't mind giving credit to those who help me out as well.
 
 The reason I am trying to build this as fast as possible, I want to raise funds so I can move to be with my fiance. It's a whole new chapter for both of us. I'd like to be able to have a tech startup. So, that's this app as far as I can take it -- for now.
+
+Testing it on 02/15/2024 - https://www.youtube.com/watch?v=EentK-9kF34
 
 02/16/2024 edit -
 
