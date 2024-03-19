@@ -27,8 +27,6 @@ Under Tools, I'd want to be able to change the Settings on this, and be able to 
 
 The reason I am trying to build this as fast as possible, I want to raise funds so I can move to be with my fiance. It's a whole new chapter for both of us. I'd like to be able to have a tech startup. So, that's this app as far as I can take it -- for now.
 
-Testing it on 02/15/2024 - https://www.youtube.com/watch?v=EentK-9kF34
-
 02/16/2024 edit -
 
 I was able to add more functionality: All the radio buttons do work in my SettingsForm, just not the btnSaveTheme_Click. I'll try and figure that out. 
@@ -40,8 +38,6 @@ If anyone more advanced and knowledgeable in building C# Windows apps knows how 
 I will give credit where credit is due. And yes, I'd like to be able to get this app to Kickstarter to raise much-needed funds! I think this might be a 
 good app to get into the hands of those like myself, desiring to lose weight and lead healthier lives!
 
-Testing from the 16th - https://www.youtube.com/watch?v=Uy1dRfCZ7qY
-
 02/17/2024 edit - 
 
 Getting closer to fixing the small, much-needed little fixes. So, I think in a day or two I can either:
@@ -52,6 +48,6 @@ If anyone reads or comes across my project in C# and decides, "Hey, this is cool
 Just, a lot of my time and effort has gone into creating this as a Windows app first and foremost. Just, give me credit for the work I've done.
 But, if you also decide you can help me improve things, by all means, take clone what I have here and let me know that you're helping me out. 
 
-Link to the video of me testing it out a while ago - https://youtu.be/T71taXNZgBg 
+Link to the video of me testing it out a while ago - https://www.youtube.com/watch?v=OhFvMpfTBEU&t=1s
 
 I'm all for collaboration, truly!
