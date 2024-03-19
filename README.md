@@ -27,8 +27,6 @@ Under Tools, I'd want to be able to change the Settings on this, and be able to 
 
 The reason I am trying to build this as fast as possible, I want to raise funds so I can move to be with my fiance. It's a whole new chapter for both of us. I'd like to be able to have a tech startup. So, that's this app as far as I can take it -- for now.
 
-02/16/2024 edit -
-
 I was able to add more functionality: All the radio buttons do work in my SettingsForm, just not the btnSaveTheme_Click. I'll try and figure that out. 
 Other things that work as well - opening a file (if the program can find it), saving a file, printing that file, and of course the exit. Even the upper 
 right corner where we typically see the close button, works too. Edit and those commands, cut, copy, paste, and delete do not work at the moment. 
@@ -37,8 +35,6 @@ Again, I'll get that fixed as soon as possible. Two other things do not work as 
 If anyone more advanced and knowledgeable in building C# Windows apps knows how to fix what I couldn't do on my own - feel free to make the needed changes.
 I will give credit where credit is due. And yes, I'd like to be able to get this app to Kickstarter to raise much-needed funds! I think this might be a 
 good app to get into the hands of those like myself, desiring to lose weight and lead healthier lives!
-
-02/17/2024 edit - 
 
 Getting closer to fixing the small, much-needed little fixes. So, I think in a day or two I can either:
 1. Start wrapping things up, or
