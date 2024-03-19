@@ -47,3 +47,21 @@ But, if you also decide you can help me improve things, by all means, take clone
 Link to the video of me testing it out a while ago - https://www.youtube.com/watch?v=OhFvMpfTBEU&t=1s
 
 I'm all for collaboration, truly!
+
+Tonight's update - 03/18/2024 - Things I'd like to add, and to make my health, journal app better - one thing is to make it a bit more slender for phone and devices and the other is to add these items 
+* nutritional database - Implement a detailed food database to allow users to log their meals and calculate their daily caloric intake. This is a cornerstone feature for meal planning and tracking nutritional intake.
+* meal planning tool - Develop a feature that suggests daily meal plans based on users' caloric needs and dietary preferences. This tool can help users stay within their caloric budget while enjoying diverse and nutritious meals.
+* progress tracking - Enable users to track their weight, body measurements, and exercise achievements over time. Visual progress indicators like graphs or charts can be very motivating.
+* educational resources - Incorporate a section for health and wellness education. Providing users with articles, tips, and videos on healthy eating, effective exercises, and wellness can empower them to make informed lifestyle choices.
+
+Eventually adding this additional feature: Integration with Wearable Devices: If possible, integrate with APIs from popular fitness trackers and health apps. This can automate the tracking of physical activities and sleep patterns, providing a more comprehensive health overview. Possibly it's own device to help monitor progress? 
+
+Other things I'd want to add as well - 
+
+* Shopping List Generation: Automatically generate shopping lists based on the meal plans users have chosen. This list should include all the ingredients needed for the recipes in their meal plan for the week.
+* Integration with Grocery Stores: Partner with grocery stores or online grocery delivery services to allow users to purchase their shopping list items directly through the app. This could involve API integrations with these services, enabling users to place orders without leaving your app.
+* Customizable Lists: Allow users to customize their shopping lists by adding or removing items. This flexibility is crucial for accommodating last-minute changes or personal preferences.
+* Order Tracking and Management: Provide features for users to track their orders and manage delivery times. This adds convenience, making the entire process seamless from planning to delivery.
+* Deals and Recommendations: Offer recommendations for healthy food alternatives and notify users of deals or discounts on items in their shopping list. This can encourage healthier choices and save money.
+
+These are my thoughts as of tonight.
